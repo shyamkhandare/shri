@@ -6,6 +6,8 @@ public class ShriClass
 	{
 		String a="Shri";
 		System.out.println(a);
+		String b="ganeshay";
+		System.out.println(a + b);
 	}
 
 }
